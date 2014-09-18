@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["y.akamatsu@ukstudio.jp"]
   spec.summary       = %q{define not(alias !)}
   spec.description   = %q{define not(alias !)}
-  spec.homepage      = ""
+  spec.homepage      = "http://github.com/ukstudio/noooot"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
