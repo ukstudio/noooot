@@ -1,6 +1,6 @@
 # Noooot
 
-TODO: Write a gem description
+define not method(alias !)
 
 ## Installation
 
@@ -20,7 +20,10 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+require 'nooot'
+true.not #=> false
+```
 
 ## Contributing
 
